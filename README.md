@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Level-1 Task-1: Netflix India Clone
 
 **Intern Name:** Mohit Joshi  
@@ -198,4 +197,4 @@ Mohit Joshi
 - Future scope  
 
 
->>>>>>> b943e39367a1ef3f7bd52c2110a519b8e8948042
+
